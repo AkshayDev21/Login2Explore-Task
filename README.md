@@ -10,7 +10,6 @@ Benefits of using JsonPowerDB :
 3. Its is schema free so that easy to maintain.
 4. It has serverless support and fast in development.
 5. It is used in live working of html templates.
-6. 
 
 Release History :
 I used JsonPowerDB here where we can store data with high security level as it is one of the fast growing technology in world. 
